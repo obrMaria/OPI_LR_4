@@ -1,0 +1,6 @@
+a = float(input("enter 1 number: "))
+b = float(input("enter 2 number: "))
+c = float(input("enter 3 number: "))
+d = float(input("enter 4 number: "))
+z = (a+b)/(c+d)
+print("answer= %.2f"% (z))
